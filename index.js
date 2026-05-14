@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://now.gg/apps/a/19900/b.html";
+const url = "https://now.gg/apps/mini-games-rb/19901/Blox-fruit.html";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
