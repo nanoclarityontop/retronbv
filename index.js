@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://now.gg/apps/mini-games-rb/19901/Blox-fruit.html";
+const url = "https://invisiproxy.com"
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
